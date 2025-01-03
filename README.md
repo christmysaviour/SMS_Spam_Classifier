@@ -31,4 +31,5 @@ To set up the project, clone the repository and install the required packages:
 
 ```bash
 git clone https://github.com/christmysaviour/SMS_Spam_Classifier
+cd SMS_Spam_Classifier
 pip install -r requirements.txt
